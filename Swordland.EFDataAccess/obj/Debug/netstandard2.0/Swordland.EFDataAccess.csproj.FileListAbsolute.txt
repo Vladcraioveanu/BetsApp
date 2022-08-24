@@ -1,0 +1,72 @@
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.deps.json
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.dll
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.AssemblyInfo.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.pdb
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csproj.CopyComplete
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.dll
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.pdb
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.deps.json
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.dll
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.pdb
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.AssemblyInfo.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csproj.CopyComplete
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.dll
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.pdb
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.deps.json
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.dll
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.pdb
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.AssemblyInfo.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csproj.CopyComplete
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.dll
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.pdb
+C:\Users\Victor\Desktop\Project 3\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.deps.json
+C:\Users\Victor\Desktop\Project 3\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.dll
+C:\Users\Victor\Desktop\Project 3\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.pdb
+C:\Users\Victor\Desktop\Project 3\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\Project 3\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\Project 3\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\Project 3\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Project 3\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Project 3\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Project 3\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csproj.CopyComplete
+C:\Users\Victor\Desktop\Project 3\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.dll
+C:\Users\Victor\Desktop\Project 3\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.pdb
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.deps.json
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.dll
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.pdb
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csprojAssemblyReference.cache
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.AssemblyInfo.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csproj.CopyComplete
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.dll
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.pdb
+D:\desktop\SwordlandWAD\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.deps.json
+D:\desktop\SwordlandWAD\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.dll
+D:\desktop\SwordlandWAD\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.EFDataAccess.pdb
+D:\desktop\SwordlandWAD\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+D:\desktop\SwordlandWAD\Swordland.EFDataAccess\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
+D:\desktop\SwordlandWAD\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csprojAssemblyReference.cache
+D:\desktop\SwordlandWAD\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.AssemblyInfoInputs.cache
+D:\desktop\SwordlandWAD\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.AssemblyInfo.cs
+D:\desktop\SwordlandWAD\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csproj.CoreCompileInputs.cache
+D:\desktop\SwordlandWAD\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.csproj.CopyComplete
+D:\desktop\SwordlandWAD\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.dll
+D:\desktop\SwordlandWAD\Swordland.EFDataAccess\obj\Debug\netstandard2.0\Swordland.EFDataAccess.pdb

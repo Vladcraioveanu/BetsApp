@@ -1,0 +1,65 @@
+﻿@model Swordland.Models.TicketsViewModel
+@{
+    ViewData["Title"] = "Tickets";
+}
+
+
+@if (User.Identity.IsAuthenticated)
+{
+    <h2>Get tickets for our special matches!</h2>
+    <hr />
+    <p>
+        Since we need some money to maintain the site going, we will organize some special matches from time to time with mysterious challengers.
+        If you wish to watch those matches, you will need to purchase a virtual ticket!
+    </p>
+    <p>
+        Tickets are limited so hurry up before they run out.
+    </p>
+    <p>
+        Thank you for your patronage.
+    </p>
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="row">
+        <form class="col-md-4" method="post">
+            <div class="form-group">
+                <label asp-for="FirstName"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName"></label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MatchNumber"></label>
+                <input asp-for="MatchNumber" type="text" class="form-control" />
+                <span asp-validation-for="MatchNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CardNumber"></label>
+                <input asp-for="CardNumber" type="text" class="form-control" />
+                <span asp-validation-for="CardNumber" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn button2">Submit</button>
+           
+        </form>
+    </div>
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+else
+{
+    <h2>Tickets</h2>
+    <p>
+        You must be logged in to purchase a ticket!
+        <a asp-area="Identity" asp-page="/Account/Login">Login</a>
+    </p>
+    <p>
+        No account?
+        <a asp-area="Identity" asp-page="/Account/Register">Register</a>
+    </p>
+}

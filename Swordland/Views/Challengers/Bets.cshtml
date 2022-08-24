@@ -1,0 +1,57 @@
+﻿@model BetViewModel
+@{
+    ViewData["Title"] = "Bets";
+}
+
+<h2>Bets</h2>
+
+
+@if (User.Identity.IsAuthenticated)
+{
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="row">
+        <form class="col-md-4" method="post">
+            <div class="form-group">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CardNumber"></label>
+                <input asp-for="CardNumber" type="text" class="form-control" />
+                <span asp-validation-for="CardNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sum"></label>
+                <input asp-for="Sum" type="text" class="form-control" />
+                <span asp-validation-for="Sum" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn button2">Submit</button>
+            @if (!string.IsNullOrEmpty(ViewBag.message))
+            {
+                <span class="alert-success">@ViewBag.message</span>
+            }
+        </form>
+    </div>
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+else
+{
+    <p>
+        You must be logged in to place a bet!
+        <a asp-area="Identity" asp-page="/Account/Login"> Login </a>
+    </p>
+    <p>
+        No account?
+        <a asp-area="Identity" asp-page="/Account/Register"> Register </a>
+    </p>
+}

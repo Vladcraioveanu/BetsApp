@@ -1,0 +1,71 @@
+﻿@model EnrollViewModel
+@{
+    ViewData["Title"] = "Enroll";
+}
+
+@if (User.Identity.IsAuthenticated)
+{
+    <h2>Enroll</h2>
+    <hr />
+    <h4>Do you think you have what it takes to enter the arena and become a challenger?</h4>
+    <p>If you think you're ready, you can apply below to become one of our challengers!</p>
+    <p>Be warned! We are not responsible for any injuries you may get while figthing in the arena.</p>
+    <hr />
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="row">
+        <form class="col-md-4" method="post">
+            <div class="form-group">
+                <label asp-for="FirstName"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName"></label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StageName"></label>
+                <input asp-for="StageName" type="text" class="form-control" />
+                <span asp-validation-for="StageName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" type="text" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sword"></label>
+                <input asp-for="Sword" type="text" class="form-control" />
+                <span asp-validation-for="Sword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description"></label>
+                <input asp-for="Description" type="text" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn button2">Submit</button>
+            @if (!string.IsNullOrEmpty(ViewBag.message))
+            {
+                <span class="alert-success">@ViewBag.message</span>
+            }
+        </form>
+    </div>
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+else
+{
+    <h2>Enroll</h2>
+    <p>
+        You must be logged in to enroll!
+        <a asp-area="Identity" asp-page="/Account/Login">Login</a>
+    </p>
+    <p>
+        No account?
+        <a asp-area="Identity" asp-page="/Account/Register">Register</a>
+    </p>
+}

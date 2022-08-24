@@ -1,0 +1,183 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification\ 
+for details on configuring this project to bundle and minify static web assets. */
+body {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+.button2 {
+    background-color: white;
+    color: black;
+    border: 4px solid #334d4d;
+    transition-duration: 0.4s;
+    font-family: 'Cabin', sans-serif;
+}
+
+    .button2:hover {
+        background-color: #98DFAF;
+        color: white;
+    }
+
+.navbar-custom {
+    background: rgb(0,0,0);
+    background: linear-gradient(87deg, rgba(0,0,0,1) 0%, rgba(9,10,17,1) 35%, rgba(10,18,52,1) 100%);
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 19px;
+}
+
+.navbar-nav li a {
+    color: #ffffff;
+}
+
+.column2 {
+    float: left;
+    width: 25%;
+    padding: 5px
+}
+
+/* Clear floats after rows */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.content {
+    background-color: #334d4d;
+    padding: 10px;
+}
+
+.title {
+    color: #e6e6e6;
+}
+
+h4 {
+    color: white;
+}
+
+
+.pagination {
+    display: inline-block;
+}
+
+    .pagination a {
+        color: black;
+        float: left;
+        padding: 8px 16px;
+        text-decoration: none;
+    }
+
+        .pagination a.active {
+            background-color: #98DFAF;
+            color: white;
+            border-radius: 5px;
+        }
+
+        .pagination a:hover:not(.active) {
+            background-color: #ddd;
+            border-radius: 5px;
+        }
+
+/* Three columns side by side */
+.column3 {
+    float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+}
+
+/* Display the columns below each other instead of side by side on small screens */
+@media screen and (max-width: 650px) {
+    .column3 {
+        width: 100%;
+        display: block;
+    }
+}
+
+/* Add some shadows to create a card effect */
+.card {
+    width: 75%;
+    box-shadow: 0px 0px 10px 5px #334d4d;
+    background: #334d4d;
+}
+
+/* Some left and right padding inside the container */
+.container2 {
+    padding: 0 16px;
+}
+
+    /* Clear floats */
+    .container2::after, .row::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+
+.title2 {
+    color: #e6e6e6;
+}
+
+.button3 {
+    border: solid #af111c;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: #af111c;
+    background-color: black;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 50%;
+}
+
+    .button3:hover {
+        background-color: #98DFAF;
+        color: white;
+    }
+
+.button4 {
+    background-color: white;
+    color: black;
+    border: solid #764248;
+    transition-duration: 0.4s;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-family: 'Cabin', sans-serif;
+}
+
+    .button4:hover {
+        background-color: #98DFAF;
+        color: white;
+    }

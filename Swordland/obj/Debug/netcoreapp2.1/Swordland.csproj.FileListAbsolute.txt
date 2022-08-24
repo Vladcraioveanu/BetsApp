@@ -1,0 +1,292 @@
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.deps.json
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.runtimeconfig.json
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.dll
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.pdb
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.Views.dll
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.Views.pdb
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.EFDataAccess.dll
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.EFDataAccess.pdb
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorAssemblyInfo.cache
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorAssemblyInfo.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.AssemblyInfo.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.TagHelpers.input.cache
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.TagHelpers.output.cache
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorCoreGenerate.cache
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorTargetAssemblyInfo.cache
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorTargetAssemblyInfo.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.Views.pdb
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.csproj.CopyComplete
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.dll
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.pdb
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.genruntimeconfig.cache
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Administrator\Admin.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Enroll\Enroll.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Tickets.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Challengers\Bets.cshtml.g.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Challengers\Challenge.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.deps.json
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.runtimeconfig.json
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.dll
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.pdb
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.Views.dll
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.Views.pdb
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.EFDataAccess.dll
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.EFDataAccess.pdb
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorAssemblyInfo.cache
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorAssemblyInfo.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.AssemblyInfo.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.TagHelpers.input.cache
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.TagHelpers.output.cache
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorCoreGenerate.cache
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Administrator\Admin.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Challengers\Bets.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Challengers\Challenge.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Enroll\Enroll.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Tickets.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorTargetAssemblyInfo.cache
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorTargetAssemblyInfo.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.Views.pdb
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.csproj.CopyComplete
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.dll
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.pdb
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.genruntimeconfig.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.deps.json
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.runtimeconfig.json
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.dll
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.pdb
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.Views.dll
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.Views.pdb
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.EFDataAccess.dll
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\bin\Debug\netcoreapp2.1\Swordland.EFDataAccess.pdb
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.AssemblyInfo.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorAssemblyInfo.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorAssemblyInfo.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.TagHelpers.input.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.TagHelpers.output.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorCoreGenerate.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Administrator\Admin.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Challengers\Bets.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Challengers\Challenge.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Enroll\Enroll.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Tickets.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorTargetAssemblyInfo.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorTargetAssemblyInfo.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.Views.pdb
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.csproj.CopyComplete
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.dll
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.pdb
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland\obj\Debug\netcoreapp2.1\Swordland.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Project 3\Swordland\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Victor\Desktop\Project 3\Swordland\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Victor\Desktop\Project 3\Swordland\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Victor\Desktop\Project 3\Swordland\bin\Debug\netcoreapp2.1\Swordland.deps.json
+C:\Users\Victor\Desktop\Project 3\Swordland\bin\Debug\netcoreapp2.1\Swordland.runtimeconfig.json
+C:\Users\Victor\Desktop\Project 3\Swordland\bin\Debug\netcoreapp2.1\Swordland.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\Project 3\Swordland\bin\Debug\netcoreapp2.1\Swordland.dll
+C:\Users\Victor\Desktop\Project 3\Swordland\bin\Debug\netcoreapp2.1\Swordland.pdb
+C:\Users\Victor\Desktop\Project 3\Swordland\bin\Debug\netcoreapp2.1\Swordland.Views.dll
+C:\Users\Victor\Desktop\Project 3\Swordland\bin\Debug\netcoreapp2.1\Swordland.Views.pdb
+C:\Users\Victor\Desktop\Project 3\Swordland\bin\Debug\netcoreapp2.1\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\Project 3\Swordland\bin\Debug\netcoreapp2.1\Swordland.EFDataAccess.dll
+C:\Users\Victor\Desktop\Project 3\Swordland\bin\Debug\netcoreapp2.1\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\Project 3\Swordland\bin\Debug\netcoreapp2.1\Swordland.EFDataAccess.pdb
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorAssemblyInfo.cache
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorAssemblyInfo.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.TagHelpers.input.cache
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.TagHelpers.output.cache
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorCoreGenerate.cache
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Administrator\Admin.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Challengers\Bets.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Challengers\Challenge.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Enroll\Enroll.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Tickets.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorTargetAssemblyInfo.cache
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorTargetAssemblyInfo.cs
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.Views.pdb
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.csproj.CopyComplete
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.dll
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.pdb
+C:\Users\Victor\Desktop\Project 3\Swordland\obj\Debug\netcoreapp2.1\Swordland.genruntimeconfig.cache
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.deps.json
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.runtimeconfig.json
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.runtimeconfig.dev.json
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.dll
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.pdb
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.Views.dll
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.Views.pdb
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.ApplicationLogic.dll
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.EFDataAccess.dll
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.ApplicationLogic.pdb
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.EFDataAccess.pdb
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.csprojAssemblyReference.cache
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.AssemblyInfoInputs.cache
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.AssemblyInfo.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorAssemblyInfo.cache
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorAssemblyInfo.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.TagHelpers.input.cache
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.TagHelpers.output.cache
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorCoreGenerate.cache
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Administrator\Admin.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Challengers\Bets.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Challengers\Challenge.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Enroll\Enroll.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Tickets.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorTargetAssemblyInfo.cache
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorTargetAssemblyInfo.cs
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.Views.pdb
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.csproj.CopyComplete
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.dll
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.pdb
+C:\Users\Vlad Craioveanu\Desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.genruntimeconfig.cache
+D:\desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\appsettings.json
+D:\desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.deps.json
+D:\desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.runtimeconfig.json
+D:\desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.runtimeconfig.dev.json
+D:\desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.dll
+D:\desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.pdb
+D:\desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.Views.dll
+D:\desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.Views.pdb
+D:\desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.ApplicationLogic.dll
+D:\desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.EFDataAccess.dll
+D:\desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.ApplicationLogic.pdb
+D:\desktop\SwordlandWAD\Swordland\bin\Debug\netcoreapp2.1\Swordland.EFDataAccess.pdb
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.csprojAssemblyReference.cache
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.AssemblyInfoInputs.cache
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.AssemblyInfo.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.csproj.CoreCompileInputs.cache
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorAssemblyInfo.cache
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorAssemblyInfo.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.TagHelpers.input.cache
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.TagHelpers.output.cache
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorCoreGenerate.cache
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Administrator\Admin.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Challengers\Bets.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Challengers\Challenge.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Enroll\Enroll.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Tickets.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorTargetAssemblyInfo.cache
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.RazorTargetAssemblyInfo.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.Views.pdb
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.csproj.CopyComplete
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.dll
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.pdb
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Swordland.genruntimeconfig.cache
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\desktop\SwordlandWAD\Swordland\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
